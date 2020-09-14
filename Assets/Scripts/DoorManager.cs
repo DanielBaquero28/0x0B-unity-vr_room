@@ -15,7 +15,7 @@ public class DoorManager : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        if (rightHand.transform.position.z > 0.5 && rightHand.transform.position.z < 0.6)
+        if (rightHand.transform.position.z > 5.9f && rightHand.transform.position.z < 6.0f)
         {
             //anim.SetBool("Open", true);
             Debug.Log("Entered Position Condition");
@@ -24,16 +24,16 @@ public class DoorManager : MonoBehaviour
                 Debug.Log("anim.getbool('Open') == false");
                 Open();
             }
-            else
-            {
-                Debug.Log("Else condition");
-                Close();
-            }
+            //else
+            //{
+                //Debug.Log("Else condition");
+                //Close();
+            //}
 
         }
 
         // I'm not testing this condition for now
-        if (0 < 1)
+        if (rightHand.transform.position.z > 12.0f)
         {
             if (anim.GetBool("Open") == false)
                 Open();
@@ -41,7 +41,7 @@ public class DoorManager : MonoBehaviour
                 Close();
         }
         Debug.Log("Open Bool Val: " + anim.GetBool("Open"));
-        //Debug.Log(rightHand.transform.position.x);
+        //Debug.Log(rightHand.transform.position.z);
     }
 
     void Open()
