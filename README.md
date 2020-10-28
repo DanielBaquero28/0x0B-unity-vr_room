@@ -1,7 +1,7 @@
 <html>
     <header><h1>Unity VR Escape Room Game</h1></header>
     <body>
-    <p><strong>Escape Room is a VR game made so far for Windows and Mac users that have a STEAM VR headset. Enjoy playing this awesome game Thanks for all of those who do.</strong></p>
+    <p><strong>Escape Room is a VR game made so far for Windows and Mac users that have a STEAM VR headset. Currently the game includes basic features, like teleporting, interacting with objects and opening doors. It still doesn't have logical elements in order to be a real escape game. Enjoy playing this awesome game Thanks for all of those who do.</strong></p>
     <h2>Contributing</h2>
     <p>Please refer to each project's style and contribution guidelines for submitting patches and additions. In general, we follow the "fork-and-pull" Git workflow.</p>
     <ol>
@@ -14,6 +14,8 @@
     <p>NOTE: Be sure to merge the latest from "upstream" before making a pull request! Thanks in advance.</p>
     <h2>Related Projects</h2>
     <p>I have created a virtual reality 360 tour experience of the main campus of the software tech school I went to: <a href="https://github.com/DanielBaquero28/0x0A-unity-360_video_tour">360 VR Video Tour</a></p>
+    <h2>About Myself</h2>
+    <p>My name is Daniel Baquero. I'm a software engineer currently doing a specialization in Augmented and Virtual Reality, two types of tech which I'm very passionate about. I'm open to learn new things everyday and I never back down from a challenge. I consider myself organized, not only in my coding style but in my personal life. I like to work with other people and overcome difficulties as a team, this is because I enjoy learning from them as well as helping them out as much as I can. <a href="https://www.linkedin.com/in/daniel-alejandro-baquero-arias-106a45195/">LinkedIn</a> - <a href="https://twitter.com/DanielB30589105">Twitter - </a><a href="https://github.com/DanielBaquero28/RacingTourApp">Portafolio Project</a></p>
     <h2>Licensing</h2>
     <p style="text-align: justify";>MIT License
 
