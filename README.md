@@ -2,6 +2,9 @@
     <header><h1>Unity VR Escape Room Game</h1></header>
     <body>
     <p><strong>Escape Room is a VR game made so far for Windows and Mac users that have a STEAM VR headset. Currently the game includes basic features, like teleporting, interacting with objects and opening doors. It still doesn't have logical elements in order to be a real escape game. Enjoy playing this awesome game Thanks for all of those who do.</strong></p>
+    <img src="/Images/VR-EscapeRoom.png" alt="VR Escape Room Teleport Instructions" align="middle">
+    <img src="/Images/VR-EscapeRoom2.png" alt="VR Escape Room Teleporting" align="middle">
+    <img src="/Images/VR-EscapeRoom3.png" alt="VR Escape Room Particle System ON" align="middle">
     <h2>Contributing</h2>
     <p>Please refer to each project's style and contribution guidelines for submitting patches and additions. In general, we follow the "fork-and-pull" Git workflow.</p>
     <ol>
